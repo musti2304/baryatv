@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaryaTV</string>
+    <string name="title_live_tv">Live TV</string>
+    <string name="title_youtube">YouTube</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_about_us">About Us</string>
+</resources>
